@@ -1,5 +1,5 @@
 # Vue-ALPHA-Shop
-
+![image](https://github.com/yukai1023/Vue-ALPHA-Shop/blob/main/use.gif)
 ## Project setup
 ```
 npm install
