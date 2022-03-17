@@ -5,7 +5,7 @@
 ![image](https://github.com/yukai1023/Vue-ALPHA-Shop/blob/main/use.gif)
 
 ## ※功能介紹(Function Introduction)
-
+- RWD 響應式網頁
 - 透過按鈕「上一步」、「下一步」切換步驟
 - 根據「運送方式」顯示不同運費
 - 網頁重整後、表單仍可保留已輸入之資料
